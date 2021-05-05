@@ -16,7 +16,15 @@ In-Game:
 Models:
 <img class="ui huge middle image" src="../images/bee-model-1.png">
 <img class="ui huge middle image" src="../images/bee-model-2.png">
+![fly](https://github.com/JiajunK/BeeHave/blob/main/images/fly.gif)
+![pollinate](https://github.com/JiajunK/BeeHave/blob/main/images/pollinate.gif)
+![sting](https://github.com/JiajunK/BeeHave/blob/main/images/sting.gif)
+![idle](https://github.com/JiajunK/BeeHave/blob/main/images/idle.gif)
+![walk](https://github.com/JiajunK/BeeHave/blob/main/images/walk.gif)
+![slap](https://github.com/JiajunK/BeeHave/blob/main/images/slap.gif)
+![swat](https://github.com/JiajunK/BeeHave/blob/main/images/swat.gif)
 ![faint](https://github.com/JiajunK/BeeHave/blob/main/images/faint.gif)
+![scared](https://github.com/JiajunK/BeeHave/blob/main/images/scared.gif)
 
 ## Current Game State
 - Character movement finished
