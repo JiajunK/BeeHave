@@ -16,6 +16,7 @@ In-Game:
 Models:
 <img class="ui huge middle image" src="../images/bee-model-1.png">
 <img class="ui huge middle image" src="../images/bee-model-2.png">
+![faint](https://github.com/JiajunK/BeeHave/blob/main/images/faint.gif)
 
 ## Current Game State
 - Character movement finished
